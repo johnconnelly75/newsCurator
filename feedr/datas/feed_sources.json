@@ -1,0 +1,1072 @@
+[{
+  "id": 1,
+  "name_": "reuters_Arts",
+  "url": "http://feeds.reuters.com/news/artsculture",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 2,
+  "name_": "reuters_Business",
+  "url": "http://feeds.reuters.com/reuters/businessNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 3,
+  "name_": "reuters_Company News",
+  "url": "http://feeds.reuters.com/reuters/companyNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 4,
+  "name_": "reuters_Entertainment",
+  "url": "http://feeds.reuters.com/reuters/entertainment",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 5,
+  "name_": "reuters_Environment",
+  "url": "http://feeds.reuters.com/reuters/environment",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 6,
+  "name_": "reuters_Health News",
+  "url": "http://feeds.reuters.com/reuters/healthNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 7,
+  "name_": "reuters_Lifestyle",
+  "url": "http://feeds.reuters.com/reuters/lifestyle",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 8,
+  "name_": "reuters_Media",
+  "url": "http://feeds.reuters.com/news/reutersmedia",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 9,
+  "name_": "reuters_Money",
+  "url": "http://feeds.reuters.com/news/wealth",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 10,
+  "name_": "reuters_Most Read Articles",
+  "url": "http://feeds.reuters.com/reuters/MostRead",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 11,
+  "name_": "reuters_Oddly Enough",
+  "url": "http://feeds.reuters.com/reuters/oddlyEnoughNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 12,
+  "name_": "reuters_Pictures",
+  "url": "http://feeds.reuters.com/ReutersPictures",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 13,
+  "name_": "reuters_People",
+  "url": "http://feeds.reuters.com/reuters/peopleNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 14,
+  "name_": "reuters_Politics",
+  "url": "http://feeds.reuters.com/Reuters/PoliticsNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 15,
+  "name_": "reuters_Science",
+  "url": "http://feeds.reuters.com/reuters/scienceNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 16,
+  "name_": "reuters_Sports",
+  "url": "http://feeds.reuters.com/reuters/sportsNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 17,
+  "name_": "reuters_Technology",
+  "url": "http://feeds.reuters.com/reuters/technologyNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 18,
+  "name_": "reuters_Top News",
+  "url": "http://feeds.reuters.com/reuters/topNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 19,
+  "name_": "reuters_US News",
+  "url": "http://feeds.reuters.com/Reuters/domesticNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 20,
+  "name_": "reuters_World",
+  "url": "http://feeds.reuters.com/Reuters/worldNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 21,
+  "name_": "reuters_Bankruptcy",
+  "url": "http://feeds.reuters.com/reuters/bankruptcyNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 22,
+  "name_": "reuters_Bonds",
+  "url": "http://feeds.reuters.com/reuters/bondsNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 23,
+  "name_": "reuters_Deals",
+  "url": "http://feeds.reuters.com/news/deals",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 24,
+  "name_": "reuters_Economy",
+  "url": "http://feeds.reuters.com/news/economy",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 25,
+  "name_": "reuters_Global Markets",
+  "url": "http://feeds.reuters.com/reuters/globalmarketsNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 26,
+  "name_": "reuters_Hedge Funds",
+  "url": "http://feeds.reuters.com/news/hedgefunds",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 27,
+  "name_": "reuters_Hot Stocks",
+  "url": "http://feeds.reuters.com/reuters/hotStocksNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 28,
+  "name_": "reuters_IPOs",
+  "url": "http://www.reuters.com/rssFeed/newIssuesNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 29,
+  "name_": "reuters_Mergers & Acquisitions",
+  "url": "http://feeds.reuters.com/reuters/mergersNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 30,
+  "name_": "reuters_Regulatory News",
+  "url": "http://feeds.reuters.com/reuters/governmentfilingsNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 31,
+  "name_": "reuters_Summit News",
+  "url": "http://feeds.reuters.com/reuters/summitNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 32,
+  "name_": "reuters_US Dollar Report",
+  "url": "http://feeds.reuters.com/reuters/USdollarreportNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 33,
+  "name_": "reuters_US Markets",
+  "url": "http://feeds.reuters.com/news/usmarkets",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 34,
+  "name_": "reuters_Basic Materials ",
+  "url": "http://feeds.reuters.com/reuters/basicmaterialsNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 35,
+  "name_": "reuters_Cyclical Consumer Goods",
+  "url": "http://feeds.reuters.com/reuters/cyclicalconsumergoodsNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 36,
+  "name_": "reuters_Energy ",
+  "url": "http://feeds.reuters.com/reuters/USenergyNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 37,
+  "name_": "reuters_Financials ",
+  "url": "http://feeds.reuters.com/reuters/financialsNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 38,
+  "name_": "reuters_Healthcare",
+  "url": "http://feeds.reuters.com/reuters/UShealthcareNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 39,
+  "name_": "reuters_Industrials",
+  "url": "http://feeds.reuters.com/reuters/industrialsNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 40,
+  "name_": "reuters_Media Diversified",
+  "url": "http://feeds.reuters.com/reuters/USmediaDiversifiedNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 41,
+  "name_": "reuters_Non-Cyclical Consumer Goods ",
+  "url": "http://feeds.reuters.com/reuters/noncyclicalconsumergoodsNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 42,
+  "name_": "reuters_Technology ",
+  "url": "http://feeds.reuters.com/reuters/technologysectorNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 43,
+  "name_": "reuters_Utilities",
+  "url": "http://feeds.reuters.com/reuters/utilitiesNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 44,
+  "name_": "reuters_Data Dive",
+  "url": "http://feeds.feedburner.com/reuters/blogs/data-dive",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 45,
+  "name_": "reuters_Davos Notebook",
+  "url": "http://feeds.feedburner.com/reuters/blogs/DavosNotebook",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 46,
+  "name_": "reuters_Financial Regulatory Forum",
+  "url": "http://feeds.reuters.com/reuters/blogs/FinancialRegulatoryForum",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 47,
+  "name_": "reuters_Global Investing",
+  "url": "http://feeds.reuters.com/reuters/blogs/GlobalInvesting",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 48,
+  "name_": "reuters_Hugo Dixon",
+  "url": "http://feeds.reuters.com/reuters/blogs/HugoDixon",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 49,
+  "name_": "reuters_India Insight",
+  "url": "http://feeds.reuters.com/reuters/blogs/India",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 50,
+  "name_": "reuters_James Saft",
+  "url": "http://feeds.reuters.com/reuters/blogs/JamesSaft",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 51,
+  "name_": "reuters_Macroscope",
+  "url": "http://feeds.reuters.com/reuters/blogs/macroscope",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 52,
+  "name_": "reuters_MediaFile",
+  "url": "http://feeds.reuters.com/reuters/blogs/mediafile",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 53,
+  "name_": "reuters_Newsmaker",
+  "url": "http://feeds.reuters.com/reuters/blogs/newsmaker",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 54,
+  "name_": "reuters_Reuters Photographers",
+  "url": "http://feeds.reuters.com/reuters/blogs/photo",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 55,
+  "name_": "reuters_Summit Notebook",
+  "url": "http://feeds.reuters.com/reuters/blogs/SummitNotebook",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 56,
+  "name_": "reuters_Tales from the Trail",
+  "url": "http://feeds.reuters.com/reuters/blogs/talesfromthetrail",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 57,
+  "name_": "reuters_The Great Debate",
+  "url": "http://feeds.reuters.com/reuters/blogs/the-great-debate",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 58,
+  "name_": "reuters_The Human Impact",
+  "url": "http://feeds.reuters.com/reuters/blogs/the-human-impact",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 59,
+  "name_": "reuters_Unstructured Finance",
+  "url": "http://feeds.reuters.com/UnstructuredFinance",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 60,
+  "name_": "reuters_Breakingviews Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoBreakingviews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 61,
+  "name_": "reuters_Business Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoBusiness",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 62,
+  "name_": "reuters_Business Travel Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoBusinessTravel",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 63,
+  "name_": "reuters_Chrystia Freeland Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoChrystiaFreeland",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 64,
+  "name_": "reuters_Entertainment Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoEntertainment",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 65,
+  "name_": "reuters_Environment Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoEnvironment",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 66,
+  "name_": "reuters_Felix Salmon Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoFelixSalmon",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 67,
+  "name_": "reuters_GigaOm Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoGigaom",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 68,
+  "name_": "reuters_Lifestyle Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoLifestyle",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 69,
+  "name_": "reuters_Most Watched Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoMostWatched",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 70,
+  "name_": "reuters_Most Recent Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoLatest",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 71,
+  "name_": "reuters_Newsmakers",
+  "url": "http://feeds.reuters.com/reuters/USVideoNewsmakers",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 72,
+  "name_": "reuters_Oddly Enough Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoOddlyEnough",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 73,
+  "name_": "reuters_Personal Finance",
+  "url": "http://feeds.reuters.com/reuters/USVideoPersonalFinance",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 74,
+  "name_": "reuters_Politics Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoPolitics",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 75,
+  "name_": "reuters_Rough Cuts",
+  "url": "http://feeds.reuters.com/reuters/USVideoRoughCuts",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 76,
+  "name_": "reuters_Small Business",
+  "url": "http://feeds.reuters.com/reuters/USVideoSmallBusiness",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 77,
+  "name_": "reuters_Technology Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoTechnology",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 78,
+  "name_": "reuters_Top News Video",
+  "url": "http://feeds.reuters.com/reuters/USVideoTopNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 79,
+  "name_": "reuters_World News",
+  "url": "http://feeds.reuters.com/reuters/USVideoWorldNews",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 80,
+  "name_": "google_alert_\"Dmitris Daskalopoulos\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/11430229176980370810",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 81,
+  "name_": "google_alert_\"Emory Williams\" ERA",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/2478474947038883834",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 82,
+  "name_": "google_alert_\"Exact Target\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/17046458873913931670",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 83,
+  "name_": "google_alert_\"Exact Target\" Dorsey",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/10672719957977026098",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 84,
+  "name_": "google_alert_\"ExactTarget\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/2376064330885571982",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 85,
+  "name_": "google_alert_\"ExactTarget\" Dorsey",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/11007425199243251915",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 86,
+  "name_": "google_alert_\"George Cohon\" McDonald's",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/9739655348667684793",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 87,
+  "name_": "google_alert_\"Gigi Levy\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/11430229176980372881",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 88,
+  "name_": "google_alert_\"Harry Akande\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/18032054947073283624",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 89,
+  "name_": "google_alert_\"Harry Kraemer\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/7729095019153062222",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 90,
+  "name_": "google_alert_\"Harry M. Kraemer\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/3482496888453988113",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 91,
+  "name_": "google_alert_\"J. Ira Harris\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/13512975338884871091",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 92,
+  "name_": "google_alert_\"James DeNaut\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/6754540862345599500",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 93,
+  "name_": "google_alert_\"John Connelly\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/3539375159196195118",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 94,
+  "name_": "google_alert_\"Kellogg School of Management\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/14685900818883573331",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 95,
+  "name_": "google_alert_\"Kellogg School of Management\" London",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/6013181266345683431",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 96,
+  "name_": "google_alert_\"Marc Mogull\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/6479252092884975115",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 97,
+  "name_": "google_alert_\"Mark Pu\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/7584469249459909974",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 98,
+  "name_": "google_alert_\"Melih Keyman\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/15998328388041195419",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 99,
+  "name_": "google_alert_\"MICHAEL HOFFMAN\" Riverstone Holdings",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/15468449622533370797",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 100,
+  "name_": "google_alert_\"Morton Schapiro\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/4063204760157177251",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 101,
+  "name_": "google_alert_\"Northwestern Üniversitesi\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/2818471042976151362",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 102,
+  "name_": "google_alert_\"Northwestern University\" -professor -study",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/13314339879590708977",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 103,
+  "name_": "google_alert_\"Northwestern University\" chief executive officer",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/14842963045368831192",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 104,
+  "name_": "google_alert_\"Northwestern University\" chief executive officer",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/9697228768910884246",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 105,
+  "name_": "google_alert_\"Northwestern University\" London",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/6704614489687148583",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 106,
+  "name_": "google_alert_\"Northwestern University\" London chief",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/18403884769482026528",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 107,
+  "name_": "google_alert_\"Northwestern University\" Turkey",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/12277568816837961671",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 108,
+  "name_": "google_alert_\"RAMESH KUMAR\" Onconova",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/445305160461947857",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 110,
+  "name_": "google_alert_\"Samer Mouasher\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/4065974449613529357",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 111,
+  "name_": "google_alert_\"Soho China\" Zhang Xin",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/466242422804448705",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 112,
+  "name_": "google_alert_\"西北大学\"",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/2818471042976150608",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 113,
+  "name_": "google_alert_39 E 74th St New York",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/15728018359726228787",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 114,
+  "name_": "google_alert_Aerocrine",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/4880149141439059346",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 116,
+  "name_": "google_alert_Arthur C. Martinez",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/5512186345214198774",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 117,
+  "name_": "google_alert_Arthur Martinez",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/8937909739348034867",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 118,
+  "name_": "google_alert_B.H. Kothari",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/12917648313900805855",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 119,
+  "name_": "google_alert_BH Kothari",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/3267115682624453963",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 120,
+  "name_": "google_alert_Bhadrashyam Kothari",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/1545622804154369855",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 121,
+  "name_": "google_alert_Bill Lambert",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/3971487968046503751",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 122,
+  "name_": "google_alert_Bill Lambert Wasserstein",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/18038111189371333334",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 123,
+  "name_": "google_alert_Christopher Combe",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/391605141347609231",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 124,
+  "name_": "google_alert_Donald C. Clark",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/5957106275927902182",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 125,
+  "name_": "google_alert_Donald Clark HSBC",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/11502109480252495921",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 126,
+  "name_": "google_alert_Emory Williams ERA Mining",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/1318190609644913120",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 127,
+  "name_": "google_alert_Eric Gleacher",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/1359317012653530252",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 128,
+  "name_": "google_alert_Gleacher",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/7766065637295680512",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 129,
+  "name_": "google_alert_James DeNaut",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/2977888835271410706",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 130,
+  "name_": "google_alert_James DeNaut Nomura",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/5110992957320589935",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 131,
+  "name_": "google_alert_James P. Schadt",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/14782503230057014983",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 132,
+  "name_": "google_alert_James Schadt",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/2943532297111352444",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 133,
+  "name_": "google_alert_Jane Hoffman",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/10928866714925220564",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 134,
+  "name_": "google_alert_Jim Denaut",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/1978776073641654421",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 135,
+  "name_": "google_alert_Jim DeNaut AND Nomura",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/17052944454756927368",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 136,
+  "name_": "google_alert_John Walter Ashlin",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/10827713668503310923",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 137,
+  "name_": "google_alert_John Kukral",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/8408582690200477785",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 138,
+  "name_": "google_alert_johnconnelly75@gmail.com",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/13938126573946672516",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 139,
+  "name_": "google_alert_Judith Sprieser",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/10170417352108749435",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 140,
+  "name_": "google_alert_Keyman Keytrade",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/236116765795439082",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 141,
+  "name_": "google_alert_Mary Baglivo",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/10738664329305812444",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 142,
+  "name_": "google_alert_Melih Keyman",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/13706561493823144778",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 143,
+  "name_": "google_alert_Michael S. Shannon",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/2561292334465019",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 144,
+  "name_": "google_alert_Michael Shannon KSL Capital Partners",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/302528247921130962",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 145,
+  "name_": "google_alert_Nomura Securities",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/11041915066641161980",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 146,
+  "name_": "google_alert_Northwood Investors",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/16792673483764184232",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 147,
+  "name_": "google_alert_Onconova",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/1812544862607399668",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 148,
+  "name_": "google_alert_Onconova IPO",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/12735760550051974109",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 149,
+  "name_": "google_alert_Robin Chemers Neustein",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/7459580657766842675",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 150,
+  "name_": "google_alert_Robin Neustein",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/11382814868090804794",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 151,
+  "name_": "google_alert_Schadt Contagion",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/1351458574580838405",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 152,
+  "name_": "google_alert_site:https://www.nd.edu/ Segura",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/4149415094234171022",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 153,
+  "name_": "google_alert_SOHO China",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/2830198474610291242",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 154,
+  "name_": "google_alert_Thomas Theobald",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/11688128704903095281",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ },
+ {
+  "id": 155,
+  "name_": "google_alert_西北大学",
+  "url": "https://www.google.com/alerts/feeds/16565681095916445214/44571684930153129",
+  "dateAdded": "09/22/2015",
+  "nuMentions": 0
+ }
+]
